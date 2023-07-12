@@ -2,23 +2,18 @@ Aurora De Luna - Personal Website
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Aurora De Luna 
+Aurora De Luna 
+Data Scientist | Researcher | Educator | Web Designer 
 
 Show Contacts
 
 Email
-richard@example.com
+jdeluna@berkeley.edu
 
 Phone
-+1 (213) 352-2795
++1 (323) 381-8855
 
-Birthday
-June 23, 1982
-
-Location
-Sacramento, California, USA
 
 # navbar
 
